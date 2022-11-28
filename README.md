@@ -1,20 +1,17 @@
-### Hi there 👋
 
-<!--
-**JeongHyunWoong/JeongHyunWoong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">📚 Tech Stack 📚</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<h3 align="center">🌈 Follow Me 🌈</h3>
+<p align="center">
+  <a href="https://woong1120.tistory.com"><img src="https://img.shields.io/badge/TISTORY-FF5E00?style=flat-square&logo=TISTORY&logoColor=white&link=https://woong1120.tistory.com"/></a>&nbsp
+  <a href="mailto:jslej1120@naver.com"><img src="https://img.shields.io/badge/Naver-11B48A?style=flat-square&logo=Naver&logoColor=white&link=jslej1120@naver.com"/></a>
+</p>
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
