@@ -10,7 +10,7 @@
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="https://woong1120.tistory.com"><img src="https://img.shields.io/badge/TISTORY-FF5E00?style=flat-square&logo=TISTORY&logoColor=white&link=https://woong1120.tistory.com"/></a>&nbsp
-  <a href="mailto:jslej1120@naver.com"><img src="https://img.shields.io/badge/Naver-11B48A?style=flat-square&logo=Naver&logoColor=white&link=jslej1120@naver.com"/></a>
+  <a href="https://www.instagram.com/woong.hj/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woong.hj/"/></a>&nbsp
 </p>
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
