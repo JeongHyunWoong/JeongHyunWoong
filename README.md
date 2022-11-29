@@ -1,3 +1,4 @@
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20I'm%20HyunWoong&fontSize=90)
 
 <h3 align="center">📚 Tech Stack 📚</h3>
@@ -22,9 +23,12 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=JeongHyunWoong&show_icons=true"/></a>&nbsp 
+</p>
 </div>
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongHyunWoong&count_bg=%230BDA1F&title_bg=%231E40DA&icon=androidstudio.svg&icon_color=%233ED15E&title=visit&edge_flat=false"/></a>
 </p>
+
