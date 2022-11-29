@@ -2,10 +2,12 @@
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logoo=Eclipse&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logoo=Eclipse&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logoo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-FF9933?style=flat-square&logoo=CSS&logoColor=white"/>
 </p>
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
